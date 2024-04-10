@@ -1,5 +1,5 @@
 
-Hi, I'm Gayathri Arumugam. Transitioning from a QA to a Frontend dev.  
+Hi, I'm Gayathri Arumugam. A passionate Front End Developer.
 
 I’m currently learning React JS and working on some of the projects you see here.  
 
