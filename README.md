@@ -1,5 +1,6 @@
+Hey there 👋
 
-Hi, I'm Gayathri Arumugam. A passionate Front End Developer.
+I'm Gayathri Arumugam. A passionate Front End Developer.
 
 I’m currently learning React JS and working on some of the projects you see here.  
 
